@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7557bb291fabf4240a134207e62a9a29
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spyPlayer: {fileID: 400000, guid: 422bfc037bb7dfc4da8a90685612ef44, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

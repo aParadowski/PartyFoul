@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp\Compiled-Normal-Diffuse.shader">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Character Scripts\SpyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\GunScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Utility Scripts\SampleAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\NetworkManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Character Scripts\Assassin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SpyCameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\CameraShake.cs" Line="1" Column="1" />
+      <File FileName="Temp\Compiled-Normal-Diffuse.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
